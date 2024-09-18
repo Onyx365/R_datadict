@@ -2,6 +2,8 @@ AMR data
 
 100,000 rows of 12 variables
 
+Last updated date 18/09/2024
+
 These data represent the sort of data that might be obtained from the 2nd generation surveillance system.
 
 * id integer- a unique identifier for each person
