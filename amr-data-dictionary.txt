@@ -12,4 +12,8 @@ These data represent the sort of data that might be obtained from the 2nd genera
 
 * ethnicity - self-reported ethnicity
 
+*region - of laboratory
+
+*co-morbidity - of patient
+
 last updated 18/09/2024
